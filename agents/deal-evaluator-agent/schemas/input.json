@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "company_name": {
+      "type": "string",
+      "description": "Name of the company being evaluated"
+    },
+    "documents": {
+      "type": "object",
+      "properties": {
+        "sim_path": {"type": "string"},
+        "pnl_path": {"type": "string"},
+        "questions_path": {"type": "string"}
+      },
+      "required": ["sim_path", "pnl_path"]
+    }
+  },
+  "required": ["company_name", "documents"]
+}

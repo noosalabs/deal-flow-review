@@ -1,0 +1,9 @@
+{
+  "name": "deal-evaluator",
+  "description": "Autonomous deal evaluation agent for micro-SaaS acquisitions",
+  "model": "claude-sonnet-4-20250514",
+  "system_prompt_file": "../../skills/deal-evaluator/SKILL.md",
+  "tools": ["web_search", "read_file"],
+  "max_tokens": 50000,
+  "temperature": 0.3
+}
