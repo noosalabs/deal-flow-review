@@ -1,0 +1,7 @@
+{
+  "company_name": "TestCo SaaS",
+  "documents": {
+    "sim_path": "test/sample-sim.txt",
+    "pnl_path": "test/sample-pnl.txt"
+  }
+}

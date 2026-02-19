@@ -1,0 +1,13 @@
+TestCo SaaS - P&L Summary
+
+Revenue: $350,000
+Expenses:
+- Hosting: $15,000
+- Software/Tools: $8,000
+- Marketing: $12,000
+- Support (VA): $18,000
+- Owner Salary: $70,000
+
+Total Expenses: $123,000
+Net Profit: $227,000
+SDE: 64.9%

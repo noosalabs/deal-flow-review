@@ -1,0 +1,10 @@
+Company: TestCo SaaS
+Product: Project management tool for SMBs
+ARR: $350,000
+Customers: 450 active subscriptions
+Pricing: $65/month per team
+Growth: 18% YoY
+Customer Acquisition: 85% organic (SEO), 15% word-of-mouth
+Target Market: Small businesses (5-50 employees)
+Product: Self-serve signup, no sales team required
+Competition: Priced 30% below Asana alternatives
