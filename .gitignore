@@ -1,2 +1,11 @@
 # Deal documents (confidential)
 deals/
+
+# MCP config with credentials (use .mcp.json.example as template)
+.mcp.json
+
+# Logs
+logs/
+
+# Local Claude settings
+.claude/settings.local.json

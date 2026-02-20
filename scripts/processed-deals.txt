@@ -1,0 +1,3 @@
+# Deal folder IDs that have already been evaluated
+# One Google Drive folder ID per line
+# The orchestrator skips any folder ID listed here

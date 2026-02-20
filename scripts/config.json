@@ -1,0 +1,10 @@
+{
+  "gdrive_watched_folder_id": "18VGzngtfBnFNAN5677gmX2l5YfGPx3g9",
+  "gdrive_excluded_folders": ["zDealFlow"],
+  "notion_deals_database_id": "abf8b4d135e4480ab34cabb094d4b6a2",
+  "notion_workflow_settings_page_id": "30c3a7c0-0e38-80a9-8ad6-ec1c8c7c1cb3",
+  "ntfy_topic": "NL-deals-pascal",
+  "processed_deals_file": "scripts/processed-deals.txt",
+  "log_dir": "logs/scheduled",
+  "evaluation_output_dir": "outputs"
+}

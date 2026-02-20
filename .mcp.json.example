@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mcp-gdrive": {
+      "command": "node",
+      "args": ["/Users/YOUR_USERNAME/.mcp/mcp-gdrive/dist/index.js"],
+      "env": {
+        "CLIENT_ID": "YOUR_GOOGLE_CLIENT_ID",
+        "CLIENT_SECRET": "YOUR_GOOGLE_CLIENT_SECRET",
+        "GDRIVE_CREDS_DIR": "/Users/YOUR_USERNAME/.config/mcp-gdrive"
+      }
+    }
+  }
+}
